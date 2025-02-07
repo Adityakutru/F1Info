@@ -1,0 +1,10 @@
+.footer {
+    margin-top: 20px;
+    padding: 10px;
+    color: rgba(57, 54, 54, 0.785); /* Slightly faded text */
+}
+  .footer p {
+    font-size:20px ;
+    margin:0;
+  }
+  

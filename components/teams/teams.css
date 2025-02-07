@@ -1,0 +1,26 @@
+p{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    padding: 0%;
+    margin-bottom:  0%;
+
+}
+.teams{
+    margin: 70px auto ;
+    justify-content: space-between;
+}
+.team{ 
+    margin: 20px;
+    border-radius: 10%;
+    justify-content: space-between;  
+}
+.teams img{
+    width: 200px; /* Fixed size for all images */
+    height: 200px;
+    position: relative;
+    object-fit: cover;
+    background-color: aliceblue;
+    border-width: 0;
+}
